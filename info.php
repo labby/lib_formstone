@@ -34,7 +34,7 @@ if (defined('LEPTON_PATH')) {
 $module_directory = 'lib_formstone';
 $module_name      = 'Formstone Library';
 $module_function  = 'library';
-$module_version   = '0.6.3.0';
+$module_version   = '0.6.8.0';
 $module_platform  = '2.x';
 $module_delete	  =  true;
 $module_author    = 'cms-lab';
