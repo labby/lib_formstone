@@ -34,13 +34,13 @@ if (defined('LEPTON_PATH')) {
 $module_directory = 'lib_formstone';
 $module_name      = 'Formstone Library';
 $module_function  = 'library';
-$module_version   = '0.6.8.0';
+$module_version   = '0.7.18.0';
 $module_platform  = '2.x';
 $module_delete	  =  true;
 $module_author    = 'cms-lab';
 $module_license   = 'http://opensource.org/licenses/MIT';
 $module_license_terms   = '-';
-$module_description = 'This module installs basic files <a href="http://semantic-ui.com" target="_blank">Semantic UI</a>.';
+$module_description = '<a href="http://formstone.it" target="_blank">Formstone</a>: not a framework. Just a collection of thoughtfully crafted front-end components.';
 $module_guid      = '907e2b79-ab45-4ef2-9215-f9c47d831bb3';
 $module_home      = 'http://www.cms-lab.com';
 
