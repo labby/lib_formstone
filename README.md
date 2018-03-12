@@ -1,5 +1,4 @@
-###lib_formstone
-============
+### lib_formstone
 
 Formstone components as a library for Content Management Systems [LEPTON CMS][1]<br />
 For details please see: http://formstone.it/
@@ -10,7 +9,7 @@ For details please see: http://formstone.it/
 
 #### Installation
 
-* download latest [lib_formstone.zip] [2] installation archive
+* download latest [lib_formstone.zip][2] installation archive
 * in CMS backend select the file from "Add-ons" -> "Modules" -> "Install module"
 
 #### First Steps
